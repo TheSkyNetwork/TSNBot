@@ -1,2 +1,0 @@
-# TSNBot
-TSN Bot
